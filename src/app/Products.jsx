@@ -4,7 +4,7 @@ const tiers = [
   {
     name: 'Grabacion de Voces (sin edición)',
     id: 'tier-freelancer',
-    href: 'https://w.app/Swagstudio',
+    href: 'https://w.app/bgk8NJ',
     priceMonthly: '$80',
     description: 'The essentials to provide your best work for clients.',
     features: ['Grabasion de Voces', 'Entraga de Archivos MP3', 'Entraga de Archivos Wave',],
@@ -13,7 +13,7 @@ const tiers = [
   {
     name: 'Grabacion de Voces',
     id: 'tier-startup', 
-    href: 'https://w.app/Swagstudio',
+    href: 'https://w.app/lwHz6s',
     priceMonthly: '$200',
     description: 'A plan that scales with your rapidly growing business.',
     features: [
@@ -28,7 +28,7 @@ const tiers = [
   {
     name: 'Produccion Musical Premium',
     id: 'tier-enterprise',
-    href: 'https://w.app/Swagstudio',
+    href: 'https://w.app/Swagstudioservice',
     priceMonthly: '$300',
     description: 'Transforma tu música con instrumentales personalizados, grabación de voces profesional, arreglos vocales y mezcla y mastering de alta calidad.',
     features: [
